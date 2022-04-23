@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.btn1{
+  margin: 10px;
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border:none;
+}
+
+.btn2{
+  margin: 10px;
+  border:1px solid #757575;
+  padding: 10px 20px;
+  border-radius: 5px;
+
+}
+.btn3{
+  margin: 10px;
+  border: 1px dashed #757575;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.btn4{
+  margin: 10px;
+  /* border: 1px solid #757575; */
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: transparent;
+
+}
+.btn5{
+  margin: 10px;
+  border: transparent;
+  color: rgba(7, 160, 255, 0.998);
+  padding: 10px 20px;
+  border-radius: 5px;
+}
